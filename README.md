@@ -31,7 +31,7 @@ Tables presenting each of the following metrics:
   9th grade math and reading score has replaced to "nan" which will not included from the following analysis,<br>
   others reminded the same
 - Scores by school spending (Before & After)<br> 
-  Thomas High School per student budget is $638 which falls in range of $630-$644
+  Thomas High School per student budget is $638 which falls in range of $630-644
   ![previous_school_spending](previous_school_spending.png)<br>
   ![new school spending](new_school_spending.png)<br> 
 - Scores by school size (Before & After)<br> 
@@ -47,7 +47,7 @@ Tables presenting each of the following metrics:
 ## Summary
 
 - After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, student sample size has decreased. Anything that related to Thomas High School has affacted changes in analysis result as the math, reading and overall passing score has count into the analysis: 
-  - Increased in Math and reading scores by grade 
-  - Increased in Scores by school spending 
-  - Increased in Scores by school size
-  - Increased in Scores by school type
+  - Increased 25.53% in overall scores Thomas High School grades 
+  - Increased 6.4% overall scores in school with per student budget range between $630-644
+  - Increased 5.2% overall scores in school students range between 1000 to 2000 
+  - Increased 3.2% overall scores in Charter school type
