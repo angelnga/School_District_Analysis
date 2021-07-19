@@ -20,20 +20,34 @@ Tables presenting each of the following metrics:
 10. School performance based on the type of school
 
 ## School District Analysis Results
+- After replacing 9th graders test result, the student size for Thomas High School has decreased from 1635 to 1174.<br>
+-The district summary overall passing percentage has dropped 0.1%<br>
+-Thomas high school's summary has been increased (Before & After)
+  ![previous_scores](previous_scores.png)<br>
+  ![new_scores](new_scores.png)<br>
+-Thomas High School’s performace is still reminded in top 2 compared to others.
+### Replacing the ninth-grade scores affect the following:
+- Math and reading scores by grade<br> 
+  9th grade math and reading score has replaced to "nan" which will not included from the following analysis,<br>
+  others reminded the same
+- Scores by school spending (Before & After)<br> 
+  Thomas High School per student budget is $638 which falls in range of $630-$644
+  ![previous_school_spending](previous_school_spending.png)<br>
+  ![new school spending](new_school_spending.png)<br> 
+- Scores by school size (Before & After)<br> 
+  Thomas High School has total students of 1635 which falls in range of 1000-2000
+  ![previous_school_size_summary](previous_school_size_summary.png)<br>
+  ![new_school_size_summary](new_school_size_summary.png)<br>
+- Scores by school type (Before & After)<br> 
+  Thomas High School type is Charter
+  ![previous_school_type_summary](previous_type_summary.png)<br>
+  ![new_school_type_summary](new_school_type_summary.png)<br>
 
-How is the district summary affected?
-How is the school summary affected?
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
--Increase % overall passing in "School Types": Charter by 3.2%
+## Summary
 
-
-Summary:
-
-After reading and math scores have been replaced, four changes to the school district analysis a
+- After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, student sample size has decreased. Anything that related to Thomas High School has affacted changes in analysis result as the math, reading and overall passing score has count into the analysis: 
+  - Increased in Math and reading scores by grade 
+  - Increased in Scores by school spending 
+  - Increased in Scores by school size
+  - Increased in Scores by school type
